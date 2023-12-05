@@ -1,8 +1,14 @@
-header{
-    background-color: purple;
-    color: goldenrod;
-    text-align: center;
+header {
+  background-color: purple;
+  color: goldenrod;
+  text-align: center;
 }
-main{
-    background-color: lightgray;
+main {
+  background-color: lightgray;
+  padding: 1em;
+}
+body {
+  background-image: url(../assignment/record.png);
+  background-repeat: repeat;
+  margin: 0;
 }
