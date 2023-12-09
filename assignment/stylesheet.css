@@ -3,7 +3,7 @@ header {
   color: goldenrod;
   text-align: center;
 }
-main {
+.main {
   background-color: lightgray;
   padding: 1em;
 }
