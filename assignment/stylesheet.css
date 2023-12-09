@@ -1,4 +1,4 @@
-header {
+.header {
   background-color: purple;
   color: goldenrod;
   text-align: center;
@@ -7,8 +7,18 @@ header {
   background-color: lightgray;
   padding: 1em;
 }
+
+/* .background-container {
+  background-image: url(../assignment/record.png);
+  background-size: cover;
+  background-repeat: repeat;
+} */
+/* couldn't get background to extend past the main class */
+/* for the stretch goals using the class and not element */
+
+
 body {
+  margin: 0;
   background-image: url(../assignment/record.png);
   background-repeat: repeat;
-  margin: 0;
 }
